@@ -7,6 +7,7 @@ Lo que construimos con IA para el canal lo **regalamos**: el código y el prompt
 | Proyecto | Qué es |
 |---|---|
 | [**Teleprompter**](https://github.com/InteligenciaArtificialRA/teleprompter-flotante) | Para **Mac** y **Windows**: transparente, flota encima de todo y deja pasar los clics. Para el **móvil**: [ábrelo e instálalo](https://inteligenciaartificialra.github.io/teleprompter-flotante/) como app (PWA), sin tiendas y sin internet. Y los prompts para que tu IA te lo haga. |
+| [**Limpiador de spam de YouTube**](https://github.com/InteligenciaArtificialRA/limpiador-spam-youtube) | El prompt para que tu IA te haga un limpiador de los comentarios de estafa de tu canal: lo que hemos aprendido, sin nuestro código. |
 
 Iremos añadiendo más. Dale a **Follow** arriba para enterarte de lo próximo y ⭐ a lo que te sirva.
 
